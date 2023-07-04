@@ -50,5 +50,3 @@ const GreatGrandchild = () => {
 
 export default GreatGrandchild;
 ```
-
-These code snippets demonstrate the concepts discussed in the video, including adding multiple values to the context using an object, providing the context values in the provider, and consuming the context and destructuring the values in the child components.
